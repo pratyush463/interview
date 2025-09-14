@@ -38,6 +38,8 @@ What if promise takes more time to resolve than settimeout time - which runs fir
 Aggregate in mongo, have you used that?
 
 # LTIMindtree
+
+```
 val();
 console.log(a)
 var a = 10;
@@ -64,6 +66,7 @@ for(i=data2.length-1;i>=0;i--){
 output2=output2.concat(data2[i]);
 }
 console.log("output2",output2)
+```
 
 ES6 features
 Hoisting
